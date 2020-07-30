@@ -37,3 +37,5 @@ c4cSW => willSE => willSW => cheyNE => cheyNW => imigSW => imigW => umcSE => umc
 ~~~
 
 (Note: the vertex names are arbitrary, and their names and respective locations can be found on map.jpg)
+
+This was my final project for CSCI 2275: Programming and Data Structures at the University of Colorado Boulder in December, 2019. 
