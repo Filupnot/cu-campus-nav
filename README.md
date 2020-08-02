@@ -36,6 +36,6 @@ c4cSW => willSE => willSW => cheyNE => cheyNW => imigSW => imigW => umcSE => umc
 7 minutes 38 seconds.
 ~~~
 
-(Note: the vertex names are arbitrary, and their names and respective locations can be found on map.jpg)
+(Note: the vertex names are arbitrary, and their names and respective locations can be found on map.jpg) 
 
-This was my final project for CSCI 2275: Programming and Data Structures at the University of Colorado Boulder in December, 2019. 
+<sub>~ This repository was created by Philip Knott in December, 2019, as my final project for CSCI 2275: Programming and Data Structures at the Universty of Colorado Boulder. ~</sub>
